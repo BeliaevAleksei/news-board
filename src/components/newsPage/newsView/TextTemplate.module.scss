@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title {
+  font-size: 250%;
+  font-weight: 700;
+  color: white;
+}
+
+.preview {
+  margin-top: 25px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  white-space: break-spaces;
+}

@@ -1,0 +1,22 @@
+.root {
+  color: #ffffff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.time {
+  font-size: 55px;
+  font-weight: 700;
+  // line-height: 91px;
+  letter-spacing: 0em;
+}
+
+.day {
+  text-transform: uppercase;
+  font-size: 26px;
+  font-weight: 700;
+  // line-height: 56px;
+  letter-spacing: 0em;
+}

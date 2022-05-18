@@ -1,0 +1,16 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo {
+  height: 117px;
+  width: 117px;
+  border-radius: 50%;
+}
+
+.comment {
+  color: white;
+}

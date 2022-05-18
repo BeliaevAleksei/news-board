@@ -1,0 +1,29 @@
+.root {
+  display: flex;
+}
+
+.text {
+  padding: 3px 6px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 39px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.hot {
+  background-color: #e51515;
+}
+
+.instagram {
+  background: linear-gradient(270deg, #913ebe 0%, #d22e7e 34.38%, #e14f4f 63.54%, #f7d174 100%);
+}
+
+.vk {
+  background-color: #4680c2;
+}
+
+.weekly {
+  background-color: #e86718;
+}
